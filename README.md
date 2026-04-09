@@ -1,5 +1,6 @@
-FINE (Feed Grinder) App - Thesis Documentation
-Thesis Objectives
+FINE (Feed Grinder) 
+
+
 General Objective: To develop a mobile application that assists Filipino farmers in managing animal feed recipes and tracking grinding sessions for livestock (chickens, pigs, ducks, goats, and tilapia).
 Specific Objectives:
 1.Provide a recipe database for different animal categories with ingredient formulations.
