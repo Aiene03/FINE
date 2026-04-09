@@ -1,0 +1,3 @@
+# Splash Screen Placeholder
+# Place your splash image here as: assets/splash.png
+# Recommended size: 128x128px or larger
